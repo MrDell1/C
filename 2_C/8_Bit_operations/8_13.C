@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
-#include "functions.h"
+#include "functions_13.h"
 
 int main() {
     printf("Enter data type:");
